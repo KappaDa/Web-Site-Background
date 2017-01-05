@@ -1,0 +1,19 @@
+.glyphicon {
+	margin-left: -20px;
+    top: 2px;
+    margin-right: 10px;
+}
+
+.page-header {
+	margin: 0px;
+    padding: 0px;
+    margin-bottom: 10px;
+}
+
+.breadcrumb {
+	margin-bottom: 0px;
+}
+
+.table {
+	margin-bottom: 0px;
+}
